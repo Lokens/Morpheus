@@ -1,4 +1,4 @@
- ![Image of Logo](https://github.com/Lokens/Vergonhas-Secretas/blob/master/Imagens%20do%20Mopheus/logo.png)
+ ![Image of Logo](https://raw.githubusercontent.com/Lokens/Prog-1/master/Fotos%20do%20Morpheus/logo.png)
    
       
          
@@ -143,7 +143,7 @@ No Morpheus realiza operações com números, variáveis e vetores.
 *Cada expressão deve ficar entre () (parênteses) 
  
 ```		
-					Variável = (((x+2) *0.5) + [3] vetor)
+					Variavel = (((x+2) *0.5) + [3] vetor)
 ```
 
     
