@@ -2,10 +2,11 @@
    
 
 ## **Usando o Morpheus**
-
+```
 Você deve possuir o Java Development Kit 8 ou OpenJDK 8 instalado.
 Escreva o código a ser interpretado no seu editor favorito e salve com a extensão .mp
 Execute o Interpretador no terminal com o comando:
+```
 ```				    
 				    java -jar Morpheus.jar nomedoarquivo.mp
 ```            
